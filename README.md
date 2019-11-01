@@ -16,6 +16,7 @@ The following manual describes the steps and parameters of the program read2fast
 ```
 ./read2fast.sh Ref FQ Sample BQ MQ MAC Mincov
 ```
+Below is a description of the input parameters in order in which they must be entered.
 __Parameter__ | __Description__
 ------------- | ---------------
 __Ref__ | Reference FASTA file of genomic loci.
